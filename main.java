@@ -4,6 +4,12 @@ public class main {
         
         System.out.println("Nama : Muhammad Hanif");
         System.out.println("NIM  : 244107020118 ");
+
+        System.out.println("Nama : Jonathan Dwi Pangestu");
+        System.out.println("NIM :244107020197 ");
+
+        System.out.println("Nama : Radit Firansah");
+        System.out.println("NIM :244107020196 ");
         
     }
 }
